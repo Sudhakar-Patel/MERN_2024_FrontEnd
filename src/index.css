@@ -1,0 +1,20 @@
+.navbar{
+  background-color: blue;
+}
+
+.items{
+  text-decoration: none;
+  color:white;
+  padding: 5px;
+}
+
+.items:hover{
+background-color: black;
+color:yellow;
+}
+
+.right{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
